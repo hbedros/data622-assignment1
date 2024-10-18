@@ -1,1 +1,0 @@
-# data622-assignment1
